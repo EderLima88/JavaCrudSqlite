@@ -9,7 +9,7 @@
 > - Swing
 > - Sqlite
 > - SQL
-> - 
+ 
 
 > [!NOTE]
 > Ferramentas:
